@@ -7,7 +7,7 @@ This project is a simple and efficient automation script designed for Arch Linux
 ## ✨ Features
 
 * 🚀 **System Update:** Automatically updates all system packages using `pacman`.
-* 📦 **Flatpak Support:** Updates and upgrades all installed Flatpak applications.
+* 📦 **Flatpak Support:** Updates all installed Flatpak applications.
 * 🧹 **Cache Cleanup:** Removes unnecessary cached files and packages to free up disk space.
 * 🗑️ **Orphan Removal:** Uninstalls unused and orphaned Flatpak dependencies automatically.
 * ⚡ **Fast & Automated:** Runs smoothly without requiring manual confirmation prompts (`--noconfirm`).
@@ -16,7 +16,7 @@ This project is a simple and efficient automation script designed for Arch Linux
 
 * 🐧 **Arch Linux:** A working Arch Linux (or Arch-based) distribution.
 * 📦 **Pacman:** The standard Arch package manager (pre-installed by default).
-* 🛍️ **Flatpak:** (Optional) Required if you want to update and clean Flatpak packages.
+* 🛍️ **Flatpak:** Required if you want to update and clean Flatpak packages.
 * 🔑 **Sudo Privileges:** Administrator rights to run package updates and system cleaning commands.
 
 ## 📥 Installation / Usage
