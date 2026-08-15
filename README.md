@@ -23,8 +23,10 @@ This project is a simple and efficient automation script designed for Arch Linux
 
 1. **Download the script:**
    You can download the script directly to your system using this command:
+   
    curl -O https://raw.githubusercontent.com/PoyrazAtalay/update-and-clean-arch-linux/main/update-clean.txt
 
-2. **Run the script:**
+3. **Run the script:**
    Whenever you want to update and clean your system, simply execute the following command in your terminal:
+   
    bash update-clean.txt
